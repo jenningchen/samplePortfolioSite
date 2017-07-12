@@ -1,0 +1,76 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	box-sizing: border-box;
+	margin: 30px 100px;
+}
+
+header {
+	border-bottom: 5px solid #7d97ad;
+	text-transform: uppercase;
+	overflow: auto;
+}
+
+.logo {
+	height: 80px;
+	margin-top: 42.88px;
+}
+
+.headtext {
+	float: right;
+}
+
+h1 {
+	font-weight: lighter;
+	font-size: 4em;
+	margin-bottom: 0px;
+}
+
+h4 {
+	font-weight: 500;
+	font-size: 1.5em;
+}
+
+.ninja {
+	float: right;
+}
+
+.banner img {
+	margin: 30px 0px;
+	width: 100%;
+}
+
+h2 {
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 2em;
+	margin: 2px 0px;
+}
+
+h3 {
+	font-size: 2.5em;
+	font-weight: normal;
+	color: #7d97ad;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+}
+
+section {
+	width: 290px;
+	margin: 10px 30px;
+}
+
+section img {
+	width: 100%;
+}
+
+a {
+	cursor: pointer;
+	text-decoration: none;
+	color: black;
+	margin: 2px 0px;
+}
